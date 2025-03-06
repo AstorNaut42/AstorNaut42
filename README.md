@@ -1,4 +1,19 @@
-## Welcome to my GitHub page! 
+# AstorNaut42's GitHub Page
+> [!important]
+> This is something important you should know.
+
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
+[[_TOC_]]
+
+
 
 <!--
 **AstorNaut42/AstorNaut42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
