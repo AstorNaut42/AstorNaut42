@@ -1,18 +1,15 @@
-# AstorNaut42's GitHub Page
+# 🔥 AstorNaut42's GitHub Page 🔥
 > [!important]
-> This is something important you should know.
+> This is not important at all
+
 
 
 ```mermaid
 graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+  A[Step 1: <br> Look at my GitHub page] --> B[Step 2: <br> Look for something of value];
+  B-->C[Step 3: <br> ???];
+  C-->A;
 ```
-
-[[_TOC_]]
-
 
 
 <!--
